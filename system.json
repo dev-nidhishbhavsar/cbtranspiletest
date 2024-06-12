@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "community.clearblade.com:1883",
+    "name": "NidhishTest2",
+    "platform_url": "https://community.clearblade.com",
+    "system_key": "c89af7e40caabad7bde88af8af61",
+    "system_secret": "C89AF7E40CA493C4B083AF96A203"
+}
